@@ -38,10 +38,18 @@ html, body{
     position: absolute;
     top: -40px;
     left: 0;
+    animation: drive 3s both infinite linear;
 }
 
 .luigi{
     position: absolute;
     top: 100px;
     left: 0;
+    animation: drive 5s both infinite linear;
+}
+
+/* //KEYFRAMES// */
+@keyframes drive{
+    from{transform: translateX(-350px);}
+    to{transform: translateX(1700px);}
 }
