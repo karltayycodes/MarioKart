@@ -31,3 +31,17 @@ html, body{
     position: absolute;
     top: 45%;
 }
+
+/* Elements to animate */
+
+.mario{
+    position: absolute;
+    top: -40px;
+    left: 0;
+}
+
+.luigi{
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
