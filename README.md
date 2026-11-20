@@ -11,13 +11,6 @@
 
 </div>
 
-<!--
-  PREVIEW: record a short GIF of the page, save it as img/preview.gif,
-  then delete the comment markers around the line below.
-
-  ![MarioKart preview](img/preview.gif)
--->
-
 ---
 
 ## 🎮 What is this?
