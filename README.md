@@ -9,8 +9,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-none-brightgreen?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/dependencies-zero-yellow?style=for-the-badge)
 
-**[▶ Watch the race live](https://karltayycodes.github.io/MarioKart/)**
-
 </div>
 
 <!--
